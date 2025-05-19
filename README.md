@@ -22,7 +22,10 @@ A simple offline Notes app for Android built with **MVVM architecture**, using *
 
 ## 📸 Screenshots
 
-> (Add screenshots here once the app UI is ready)
+![note1](https://github.com/user-attachments/assets/7e082636-2c42-4e5e-881d-330e6e3ebecc)
+![note2](https://github.com/user-attachments/assets/dffc6ae6-4b2d-42b4-b742-638ed9bcff03)
+![note3](https://github.com/user-attachments/assets/8e8bc67f-9340-4f9b-83d0-9c308fdd52b7)
+
 
 ## 🧠 Concepts Covered
 
